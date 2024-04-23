@@ -1,0 +1,38 @@
+# Huggingface Dependencies
+
+huggingface_hub
+huggingface_hub[cli,torch]
+transformers
+ipywidgets
+autoawq
+optimum-intel
+auto-gptq
+optimum
+peft
+accelerate
+bitsandbytes
+
+# Lllamaindex Dependencies
+
+poetry
+typing-inspect==0.8.0
+typing_extensions==4.5.0
+pydantic==1.10.11
+html2text
+
+llama-index
+
+# Llangchain Requirements
+
+langchain 
+playwright 
+beautifulsoup4 
+install
+nest-asyncio
+
+
+# Milvus Dependencies
+
+milvus
+pymilvus
+milvus-cli

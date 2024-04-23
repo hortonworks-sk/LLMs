@@ -1,0 +1,21 @@
+{
+ "id": "abc123",
+ "title": "",
+ "context": "LlamaIndex is a data framework for LLM-based applications which benefit from context augmentation. Such LLM systems have been termed as RAG systems, standing for \u201cRetrieval-Augemented Generation\u201d. LlamaIndex provides the essential abstractions to more easily ingest, structure, and access private or domain-specific data in order to inject these safely and reliably into LLMs for more accurate text generation. It\u2019s available in Python (these docs) and Typescript.",
+ "question": " What is LlamaIndex and what type of systems does it benefit?",
+ "answers": [
+  {
+   "text": "LlamaIndex is a data framework for Retrieval-Augmented Generation (RAG) systems, which are LLM-based applications that benefit from context augmentation."
+  }
+ ]
+}{
+ "id": "abc123",
+ "title": "",
+ "context": "LlamaIndex is a data framework for LLM-based applications which benefit from context augmentation. Such LLM systems have been termed as RAG systems, standing for \u201cRetrieval-Augemented Generation\u201d. LlamaIndex provides the essential abstractions to more easily ingest, structure, and access private or domain-specific data in order to inject these safely and reliably into LLMs for more accurate text generation. It\u2019s available in Python (these docs) and Typescript.",
+ "question": " What is LlamaIndex and what type of systems does it benefit?",
+ "answers": [
+  {
+   "text": "LlamaIndex is a data framework for Retrieval-Augmented Generation (RAG) systems, which are LLM-based applications that benefit from context augmentation."
+  }
+ ]
+}

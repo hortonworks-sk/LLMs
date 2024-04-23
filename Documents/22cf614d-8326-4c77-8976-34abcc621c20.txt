@@ -1,0 +1,65 @@
+Selecting retriever 0: This choice is most relevant as it mentions retrieving all context from the essay, which could include information about the author's life..
+Node ID: 7d07d325-489e-4157-a745-270e2066a643
+Similarity: None
+Text: What I Worked On
+February 2021
+Before college the two main things I worked on, outside of schoo…
+Node ID: 01f0900b-db83-450b-a088-0473f16882d7
+Similarity: None
+Text: showed Terry Winograd using SHRDLU. I haven’t tried rereading The Moon is a Harsh Mistress, so I …
+Node ID: b2549a68-5fef-4179-b027-620ebfa6e346
+Similarity: None
+Text: Science is an uneasy alliance between two halves, theory and systems. The theory people prove thi…
+Node ID: 4f1e9f0d-9bc6-4169-b3b6-4f169bbfa391
+Similarity: None
+Text: been explored. But all I wanted was to get out of grad school, and my rapidly written dissertatio…
+Node ID: e20c99f9-5e80-4c92-8cc0-03d2a527131e
+Similarity: None
+Text: stop there, of course, or you get merely photographic accuracy, and what makes a still life inter…
+Node ID: dbdf341a-f340-49f9-961f-16b9a51eea2d
+Similarity: None
+Text: that big, bureaucratic customers are a dangerous source of money, and that there’s not much overl…
+Node ID: ed341d3a-9dda-49c1-8611-0ab40d04f08a
+Similarity: None
+Text: about money, because I could sense that Interleaf was on the way down. Freelance Lisp hacking wor…
+Node ID: d69e02d3-2732-4567-a360-893c14ae157b
+Similarity: None
+Text: a web app, is common now, but at the time it wasn’t clear that it was even possible. To find out,…
+Node ID: df9e00a5-e795-40a1-9a6b-8184d1b1e7c0
+Similarity: None
+Text: have to integrate with any other software except Robert’s and Trevor’s, so it was quite fun to wo…
+Node ID: 38f2699b-0878-499b-90ee-821cb77e387b
+Similarity: None
+Text: all too keenly aware of the near-death experiences we seemed to have every few months. Nor had I …
+Node ID: be04d6a9-1fc7-4209-9df2-9c17a453699a
+Similarity: None
+Text: for a second still life, painted from the same objects (which hopefully hadn’t rotted yet).
+Mean…
+Node ID: 42344911-8a7c-4e9b-81a8-0fcf40ab7690
+Similarity: None
+Text: which I’d created years before using Viaweb but had never used for anything. In one day it got 30…
+Node ID: 9ec3df49-abf9-47f4-b0c2-16687882742a
+Similarity: None
+Text: I didn’t know but would turn out to like a lot: a woman called Jessica Livingston. A couple days …
+Node ID: d0cf6975-5261-4fb2-aae3-f3230090fb64
+Similarity: None
+Text: of readers, but professional investors are thinking “Wow, that means they got all the returns.” B…
+Node ID: 607d0480-7eee-4fb4-965d-3cb585fda62c
+Similarity: None
+Text: to the “YC GDP,” but as YC grows this becomes less and less of a joke. Now lots of startups get t…
+Node ID: 730a49c9-55f7-4416-ab91-1d0c96e704c8
+Similarity: None
+Text: So this set me thinking. It was true that on my current trajectory, YC would be the last thing I …
+Node ID: edbe8c67-e373-42bf-af98-276b559cc08b
+Similarity: None
+Text: operators you need? The Lisp that John McCarthy invented, or more accurately discovered, is an an…
+Node ID: 175a4375-35ec-45a0-a90c-15611505096b
+Similarity: None
+Text: Like McCarthy’s original Lisp, it’s a spec rather than an implementation, although like McCarthy’…
+Node ID: 0cb367f9-0aac-422b-9243-0eaa7be15090
+Similarity: None
+Text: must tell readers things they don’t already know, and some people dislike being told such things….
+Node ID: 67afd4f1-9fa1-4e76-87ac-23b115823e6c
+Similarity: None
+Text: 1960 paper.
+But if so there’s no reason to suppose that this is the limit of the language that m…
